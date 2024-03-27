@@ -7,7 +7,7 @@
 </code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget -q https://raw.githubusercontent.com/sabdestore/capzstore/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
+<pre><code>wget -q https://raw.githubusercontent.com/sabdestore/vvip/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20.04.05
