@@ -2,8 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Capriola&size=40&duration=4000&pause=450&color=F70069&background=FFFFAA00&center=true&random=false&width=600&height=100&lines= sabdestore;AUTO SCRIPT V.1.5" />
 </p>
 
+### UPDATE REPO DEBIAN 
+<pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
+</code></pre>
+
 ### INSTALL SCRIPT 
-<pre><code>apt install -y wget screen && apt install curl -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/sabdestore/vvip/main/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh
+<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/sabdestore/vvip/main/setup.sh && chmod +x setup.sh && ./setup.sh
 </code></pre>
 
 ### PERINTAH UPDATE 
